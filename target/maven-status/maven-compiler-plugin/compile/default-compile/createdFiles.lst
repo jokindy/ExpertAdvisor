@@ -1,0 +1,7 @@
+mix\Greetings.class
+mix\Mix.class
+telegram\Bot.class
+util\KeyboardMaker.class
+ExpertAdvisorApp.class
+entity\Contact.class
+entity\Taste.class
