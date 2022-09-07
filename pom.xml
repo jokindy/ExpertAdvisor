@@ -33,4 +33,13 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <uniqueVersion>false</uniqueVersion>
+            <id>corp1</id>
+            <name>ExpertAdvisor</name>
+            <url>https://github.com/jokindy/ExpertAdvisor</url>
+            <layout>default</layout>
+        </repository>
+    </distributionManagement>
 </project>
